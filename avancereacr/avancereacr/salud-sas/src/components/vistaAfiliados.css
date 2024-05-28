@@ -1,0 +1,32 @@
+.datosUsuario{
+   text-align: center;
+   background-color: rgb(20, 152, 110);
+   font-style: italic;
+}
+.botonCitas{
+    margin-right: '50px';
+   background-color: aquamarine;
+
+}
+.cajac3{
+ background-color: aqua;
+  padding: 10px;
+  width: 100%;
+  height: 100px;
+  text-align: justify;
+  font-style: italic;
+}
+.title-welcome{
+  color: black;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-style: italic;
+}
+.nav-item-dropdown-d-flex{
+border-style:outset;
+border-color: black;
+width: 25%;
+margin: 5px;
+margin-bottom: 5px;
+font-style: italic;
+}
